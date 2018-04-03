@@ -30,6 +30,8 @@ user_pref("browser.newtabpage.activity-stream.migrationRemainingDays", 3);
 user_pref("browser.newtabpage.enhanced", true);
 user_pref("browser.newtabpage.storageVersion", 1);
 user_pref("browser.onboarding.notification.last-time-of-changing-tour-sec", 1522730339);
+user_pref("browser.onboarding.notification.prompt-count", 1);
+user_pref("browser.onboarding.notification.tour-ids-queue", "onboarding-tour-performance,onboarding-tour-private-browsing,onboarding-tour-screenshots,onboarding-tour-addons,onboarding-tour-customize,onboarding-tour-default-browser,onboarding-tour-performance,onboarding-tour-private-browsing,onboarding-tour-screenshots,onboarding-tour-addons,onboarding-tour-customize,onboarding-tour-default-browser");
 user_pref("browser.onboarding.seen-tourset-version", 2);
 user_pref("browser.onboarding.tour-type", "new");
 user_pref("browser.pageActions.persistedActions", "{\"version\":1,\"ids\":[\"bookmark\",\"bookmarkSeparator\",\"copyURL\",\"emailLink\",\"sendToDevice\",\"pocket\",\"screenshots\"],\"idsInUrlbar\":[\"pocket\",\"bookmark\"]}");

@@ -17,7 +17,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///tmp/guest-q7nwlo/git.txt" added="2018-04-03T04:50:09Z" modified="2018-04-03T04:50:24Z" visited="2018-04-03T04:50:09Z">
+  <bookmark href="file:///tmp/guest-q7nwlo/git.txt" added="2018-04-03T04:50:09Z" modified="2018-04-03T05:03:15Z" visited="2018-04-03T04:50:09Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/plain"/>
@@ -25,7 +25,7 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-04-03T04:50:24Z" count="2"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-04-03T05:03:15Z" count="4"/>
         </bookmark:applications>
       </metadata>
     </info>

@@ -197,3 +197,5 @@ Successfully activated service 'org.freedesktop.Geoclue.Providers.UbuntuGeoIP'
 ** (zeitgeist-fts:4178): WARNING **: Unable to get info on application://nautilus-autostart.desktop
 Activating service name='org.gnome.Terminal'
 Successfully activated service 'org.gnome.Terminal'
+
+** (zeitgeist-fts:4178): WARNING **: Unable to get info on application://nautilus-autostart.desktop
