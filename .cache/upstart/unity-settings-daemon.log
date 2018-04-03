@@ -1,0 +1,8 @@
+
+** (unity-settings-daemon:3821): WARNING **: Unable to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(unity-settings-daemon:3821): color-plugin-WARNING **: failed to set screen _ICC_PROFILE: Failed to open file '/home/cec/.local/share/icc/edid-0315d75a11d4986facc3dbfe8fe07adf.icc': Permission denied
+
+(unity-settings-daemon:3821): keyboard-plugin-WARNING **: Unhandled settings change, key 'bell-custom-file'
+
+(unity-settings-daemon:3821): AccountsService-WARNING **: ActUserManager: user (null) has no username (object path: /org/freedesktop/Accounts/User999, uid: 0)

@@ -1,0 +1,15 @@
+logrotate state -- version 2
+"/tmp/guest-q7nwlo/.cache/upstart/window-stack-bridge.log" 2018-4-3-10:0:0
+"/tmp/guest-q7nwlo/.cache/upstart/update-notifier-release.log" 2018-4-3-10:0:0
+"/tmp/guest-q7nwlo/.cache/upstart/indicator-messages.log" 2018-4-3-10:0:0
+"/tmp/guest-q7nwlo/.cache/upstart/gpg-agent.log" 2018-4-3-10:0:0
+"/tmp/guest-q7nwlo/.cache/upstart/unity-settings-daemon.log" 2018-4-3-10:0:0
+"/tmp/guest-q7nwlo/.cache/upstart/unity7.log" 2018-4-3-10:0:0
+"/tmp/guest-q7nwlo/.cache/upstart/upstart-event-bridge.log" 2018-4-3-10:0:0
+"/tmp/guest-q7nwlo/.cache/upstart/indicator-sound.log" 2018-4-3-10:0:0
+"/tmp/guest-q7nwlo/.cache/upstart/gnome-keyring-ssh.log" 2018-4-3-10:0:0
+"/tmp/guest-q7nwlo/.cache/upstart/unity-panel-service.log" 2018-4-3-10:0:0
+"/tmp/guest-q7nwlo/.cache/upstart/indicator-keyboard.log" 2018-4-3-10:0:0
+"/tmp/guest-q7nwlo/.cache/upstart/dbus.log" 2018-4-3-10:0:0
+"/tmp/guest-q7nwlo/.cache/upstart/gnome-keyring.log" 2018-4-3-10:0:0
+"/tmp/guest-q7nwlo/.cache/upstart/gnome-session-Unity.log" 2018-4-3-10:0:0

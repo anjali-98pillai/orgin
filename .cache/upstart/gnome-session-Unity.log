@@ -1,0 +1,32 @@
+gnome-session-binary[3832]: WARNING: Could not get session id for session. Check that logind is properly installed and pam_systemd is getting used at login.
+gnome-keyring-daemon: error getting process capabilities, aborting
+gnome-keyring-daemon: error getting process capabilities, aborting
+gnome-session-binary[3832]: WARNING: App 'gnome-keyring-secrets.desktop' exited with code 1
+gnome-session-binary[3832]: WARNING: App 'gnome-keyring-ssh.desktop' exited with code 1
+gnome-keyring-daemon: error getting process capabilities, aborting
+gnome-session-binary[3832]: WARNING: App 'gnome-keyring-pkcs11.desktop' exited with code 1
+
+(process:4044): indicator-application-service-WARNING **: Unable to get watcher name 'org.kde.StatusNotifierWatcher'
+
+(process:4044): indicator-application-service-WARNING **: Name Lost
+
+(polkit-gnome-authentication-agent-1:4043): polkit-gnome-1-WARNING **: Unable to determine the session we are in: No session for pid 4043
+
+(gnome-software:4045): Gs-WARNING **: Failed to create permission org.freedesktop.packagekit.trigger-offline-update: GDBus.Error:org.freedesktop.PolicyKit1.Error.Failed: Action org.freedesktop.packagekit.trigger-offline-update is not registered
+
+(gnome-software:4045): Gs-WARNING **: Failed to create permission org.freedesktop.packagekit.trigger-offline-update: GDBus.Error:org.freedesktop.PolicyKit1.Error.Failed: Action org.freedesktop.packagekit.trigger-offline-update is not registered
+No such schema 'org.mate.screensaver'
+No such schema 'apps.light-locker'
+No such schema 'apps.light-locker'
+No such schema 'apps.light-locker'
+
+(gnome-software:4045): Gs-WARNING **: Failed to create permission org.freedesktop.packagekit.trigger-offline-update: GDBus.Error:org.freedesktop.PolicyKit1.Error.Failed: Action org.freedesktop.packagekit.trigger-offline-update is not registered
+
+(gnome-software:4045): Gs-WARNING **: Failed to create permission org.freedesktop.packagekit.trigger-offline-update: GDBus.Error:org.freedesktop.PolicyKit1.Error.Failed: Action org.freedesktop.packagekit.trigger-offline-update is not registered
+No such schema 'apps.light-locker'
+
+(gnome-software:4045): Gs-WARNING **: Failed to create permission org.freedesktop.packagekit.trigger-offline-update: GDBus.Error:org.freedesktop.PolicyKit1.Error.Failed: Action org.freedesktop.packagekit.trigger-offline-update is not registered
+Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+
+(gnome-software:4045): GsPlugin-WARNING **: Failed to download https://s3.amazonaws.com/lvfsbucket/downloads/firmware.xml.gz.asc, ignoring: Cannot resolve hostname
+Nautilus-Share-Message: Called "net usershare info" but it failed: Failed to execute child process "net" (No such file or directory)

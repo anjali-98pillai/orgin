@@ -1,0 +1,136 @@
+OpenGL vendor string:   Intel Open Source Technology Center
+OpenGL renderer string: Mesa DRI Intel(R) HD Graphics 530 (Skylake GT2) 
+OpenGL version string:  3.0 Mesa 12.0.6
+
+Not software rendered:    [32;01myes[00m
+Not blacklisted:          [32;01myes[00m
+GLX fbconfig:             [32;01myes[00m
+GLX texture from pixmap:  [32;01myes[00m
+GL npot or rect textures: [32;01myes[00m
+GL vertex program:        [32;01myes[00m
+GL fragment program:      [32;01myes[00m
+GL vertex buffer object:  [32;01myes[00m
+GL framebuffer object:    [32;01myes[00m
+GL version is 1.4+:       [32;01myes[00m
+
+Unity 3D supported:       [32;01myes[00m
+Using compiz profile 'ubuntu'
+compizconfig - Info: Backend     : gsettings
+compizconfig - Info: Integration : true
+compizconfig - Info: Profile     : unity
+compizconfig - Warning: unable to lock file /usr/share/compizconfig/upgrades/com.canonical.unity.unity.01.upgrade, reads may conflict
+compizconfig - Warning: unable to lock file /usr/share/compizconfig/upgrades/com.canonical.unity.unity.02.upgrade, reads may conflict
+compizconfig - Warning: unable to lock file /usr/share/compizconfig/upgrades/com.canonical.unity.unity.03.upgrade, reads may conflict
+compizconfig - Warning: unable to lock file /usr/share/compizconfig/upgrades/com.canonical.unity.unity.04.upgrade, reads may conflict
+compizconfig - Warning: unable to lock file /usr/share/compizconfig/upgrades/com.canonical.unity.unity.05.upgrade, reads may conflict
+compizconfig - Warning: unable to lock file /usr/share/compizconfig/upgrades/com.canonical.unity.unity.06.upgrade, reads may conflict
+compizconfig - Warning: unable to lock file /usr/share/compizconfig/upgrades/com.canonical.unity.unity.07.upgrade, reads may conflict
+compiz (core) - Info: Loading plugin: core
+compiz (core) - Info: Starting plugin: core
+compiz (core) - Info: Loading plugin: ccp
+compiz (core) - Info: Starting plugin: ccp
+compizconfig - Info: Backend     : gsettings
+compizconfig - Info: Integration : true
+compizconfig - Info: Profile     : unity
+compiz (core) - Info: Loading plugin: composite
+compiz (core) - Info: Starting plugin: composite
+compiz (core) - Info: Loading plugin: opengl
+compiz (core) - Info: Starting plugin: opengl
+Compiz (opengl) - Info: GLX_EXT_buffer_age is supported
+compiz (core) - Info: Loading plugin: regex
+compiz (core) - Info: Starting plugin: regex
+compiz (core) - Info: Loading plugin: mousepoll
+compiz (core) - Info: Starting plugin: mousepoll
+compiz (core) - Info: Loading plugin: snap
+compiz (core) - Info: Starting plugin: snap
+compiz (core) - Info: Loading plugin: imgpng
+compiz (core) - Info: Starting plugin: imgpng
+compiz (core) - Info: Loading plugin: animation
+compiz (core) - Info: Starting plugin: animation
+compiz (core) - Info: Loading plugin: wall
+compiz (core) - Info: Starting plugin: wall
+compiz (core) - Info: Loading plugin: grid
+compiz (core) - Info: Starting plugin: grid
+compiz (core) - Info: Loading plugin: place
+compiz (core) - Info: Starting plugin: place
+compiz (core) - Info: Loading plugin: workarounds
+compiz (core) - Info: Starting plugin: workarounds
+compiz (core) - Info: Loading plugin: expo
+compiz (core) - Info: Starting plugin: expo
+compiz (core) - Info: Loading plugin: copytex
+compiz (core) - Info: Starting plugin: copytex
+compiz (core) - Info: Loading plugin: resize
+compiz (core) - Info: Starting plugin: resize
+compiz (core) - Info: Loading plugin: fade
+compiz (core) - Info: Starting plugin: fade
+compiz (core) - Info: Loading plugin: commands
+compiz (core) - Info: Starting plugin: commands
+compiz (core) - Info: Loading plugin: move
+compiz (core) - Info: Starting plugin: move
+compiz (core) - Info: Loading plugin: vpswitch
+compiz (core) - Info: Starting plugin: vpswitch
+compiz (core) - Info: Loading plugin: compiztoolbox
+compiz (core) - Info: Starting plugin: compiztoolbox
+compiz (core) - Info: Loading plugin: unitymtgrabhandles
+compiz (core) - Info: Starting plugin: unitymtgrabhandles
+compiz (core) - Info: Loading plugin: session
+compiz (core) - Info: Starting plugin: session
+compiz (core) - Info: Loading plugin: ezoom
+compiz (core) - Info: Starting plugin: ezoom
+compiz (core) - Info: Loading plugin: scale
+compiz (core) - Info: Starting plugin: scale
+compiz (core) - Info: Loading plugin: unityshell
+compiz (core) - Info: Starting plugin: unityshell
+WARN  2018-04-03 10:00:15 unity.glib.dbus.server GLibDBusServer.cpp:593 Can't register object 'org.gnome.Shell' yet as we don't have a connection, waiting for it...
+WARN  2018-04-03 10:00:15 unity.debug.interface DebugDBusInterface.cpp:217 Unable to load entry point in libxpathselect: libxpathselect.so.1.4: cannot open shared object file: No such file or directory -- full D-Bus introspection will not be available
+WARN  2018-04-03 10:00:15 xim.controller XIMController.cpp:103 IBus natively supported.
+WARN  2018-04-03 10:00:15 unity.dash.gsettingsscopereader GSettingsScopes.cpp:108 Error fetching protocol metadata for scope: social.scope : Valid key file could not be found in search dirs
+WARN  2018-04-03 10:00:15 unity.glib.dbus.server GLibDBusServer.cpp:593 Can't register object 'com.canonical.Unity.Launcher' yet as we don't have a connection, waiting for it...
+WARN  2018-04-03 10:00:16 unity.glib.dbus.server GLibDBusServer.cpp:593 Can't register object 'com.canonical.Unity.Dash' yet as we don't have a connection, waiting for it...
+WARN  2018-04-03 10:00:16 nux.inputmethod.ibus InputMethodIBus.cpp:67 Impossible to connect to connect to ibus
+WARN  2018-04-03 10:00:16 unity.glib.dbus.server GLibDBusServer.cpp:593 Can't register object 'org.gnome.SessionManager.EndSessionDialog' yet as we don't have a connection, waiting for it...
+WARN  2018-04-03 10:00:16 unity.glib.dbus.server GLibDBusServer.cpp:593 Can't register object 'com.canonical.Unity.Session' yet as we don't have a connection, waiting for it...
+WARN  2018-04-03 10:00:16 unity.glib.dbus.server GLibDBusServer.cpp:593 Can't register object 'org.gnome.ScreenSaver' yet as we don't have a connection, waiting for it...
+ERROR 2018-04-03 10:00:16 unity.glib.dbus.server GLibDBusServer.cpp:538 DBus name lost 'org.gnome.Shell'
+ERROR 2018-04-03 10:00:16 unity.glib.dbus.server GLibDBusServer.cpp:538 DBus name lost 'com.canonical.Unity'
+WARN  2018-04-03 10:00:16 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2018-04-03 10:00:16 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2018-04-03 10:00:16 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2018-04-03 10:00:16 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2018-04-03 10:00:16 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2018-04-03 10:00:16 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2018-04-03 10:00:16 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2018-04-03 10:00:16 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2018-04-03 10:00:16 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2018-04-03 10:00:16 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2018-04-03 10:00:56 nux.inputmethod.ibus InputMethodIBus.cpp:67 Impossible to connect to connect to ibus
+
+(nautilus:4570): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:4570): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+WARN  2018-04-03 10:16:02 unity.iconloader IconLoader.cpp:756 Unable to load icon file:/// at size -1x22: Can't open directory
+
+** (unity-webapps-runner:5477): WARNING **: Could not get a proper accuracy from Geoclue (NONE)
+** Message: Launching webapp container for url 'http://www.amazon.com/?tag=u1webapp-20' and app_id 'ubuntu-amazon-default (command line 'webapp-container --app-id='ubuntu-amazon-default' --webapp --enable-back-forward   http://www.amazon.com/?tag=u1webapp-20')
+Invalid webapp webapp definition: homepage not found or fails predicate isString
+Could not open manifest file:  "/usr/share/unity-webapps/userscripts/unity-webapps-amazon/manifest.json"
+qml: Loading webview on /tmp/guest-q7nwlo/.local/share/ubuntu-amazon-default
+Invalid webapp webapp definition: homepage not found or fails predicate isString
+Could not open manifest file:  "/usr/share/unity-webapps/userscripts/unity-webapps-amazon/manifest.json"
+QQmlExpression: Expression file:///usr/share/webbrowser-app/webcontainer/WebApp.qml:273:25 depends on non-NOTIFYable properties:
+    unity::action::qml::ActionManager::globalContext
+[0403/101648.503644:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+qml: Loaded 8 UA override(s) from file:///usr/lib/x86_64-linux-gnu/qt5/qml/Ubuntu/Web/ua-overrides-mobile.js
+OxideQQuickWebView: canGoForward is deprecated. Please use the API provided by OxideQQuickNavigationHistory instead
+OxideQQuickWebView: canGoBack is deprecated. Please use the API provided by OxideQQuickNavigationHistory instead
+qml: Start browsing
+file:///usr/share/webbrowser-app/webcontainer/ContentPickerDialog.qml:22:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/webcontainer/ContentDownloadDialog.qml:22:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/ContentHandler.qml:20:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+qml: Loaded 8 UA override(s) from file:///usr/lib/x86_64-linux-gnu/qt5/qml/Ubuntu/Web/ua-overrides-desktop.js
+[0403/101649.269103:ERROR:layer_tree_host_impl.cc(2190)] Forcing zero-copy tile initialization as worker context is missing
+[0403/101650.603851:ERROR:oxide_user_script_slave.cc(116)] Could not get a proper message manager for frame: 0x3441b1461d98 while trying to inject script in main world

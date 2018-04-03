@@ -1,0 +1,199 @@
+Activating service name='org.ayatana.bamf'
+Activating service name='org.gtk.vfs.Daemon'
+Successfully activated service 'org.gtk.vfs.Daemon'
+Activating service name='org.a11y.Bus'
+Successfully activated service 'org.a11y.Bus'
+Activating service name='org.a11y.atspi.Registry'
+
+** (process:3727): WARNING **: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+Successfully activated service 'org.ayatana.bamf'
+Successfully activated service 'org.a11y.atspi.Registry'
+Activating service name='ca.desrt.dconf'
+Successfully activated service 'ca.desrt.dconf'
+Activating service name='org.gnome.ScreenSaver'
+Activating service name='org.gnome.evolution.dataserver.Sources5'
+
+** (gnome-screensaver:3867): WARNING **: Couldn't get presence status: The name org.gnome.SessionManager was not provided by any .service files
+Successfully activated service 'org.gnome.ScreenSaver'
+Successfully activated service 'org.gnome.evolution.dataserver.Sources5'
+Activating service name='org.gnome.evolution.dataserver.Calendar7'
+Successfully activated service 'org.gnome.evolution.dataserver.Calendar7'
+Activating service name='org.gnome.evolution.dataserver.AddressBook9'
+Successfully activated service 'org.gnome.evolution.dataserver.AddressBook9'
+Activating service name='org.gtk.vfs.Metadata'
+Successfully activated service 'org.gtk.vfs.Metadata'
+Activating service name='org.gtk.vfs.UDisks2VolumeMonitor'
+Successfully activated service 'org.gtk.vfs.UDisks2VolumeMonitor'
+Activating service name='org.gtk.vfs.GPhoto2VolumeMonitor'
+Successfully activated service 'org.gtk.vfs.GPhoto2VolumeMonitor'
+Activating service name='org.gtk.vfs.AfcVolumeMonitor'
+Successfully activated service 'org.gtk.vfs.AfcVolumeMonitor'
+Activating service name='org.gtk.vfs.MTPVolumeMonitor'
+Successfully activated service 'org.gtk.vfs.MTPVolumeMonitor'
+Activating service name='org.gtk.vfs.GoaVolumeMonitor'
+Successfully activated service 'org.gtk.vfs.GoaVolumeMonitor'
+** Message: Lost the name, shutting down.
+Activating service name='org.gnome.zeitgeist.Engine'
+
+** (process:4170): WARNING **: zeitgeist-vacuum.vala:38: Impossible to open database `/tmp/guest-q7nwlo/.local/share/zeitgeist/activity.sqlite': unable to open database file
+Activating service name='org.gnome.zeitgeist.SimpleIndexer'
+Successfully activated service 'org.gnome.zeitgeist.Engine'
+** Message: Index must be upgraded. Doing full rebuild
+Successfully activated service 'org.gnome.zeitgeist.SimpleIndexer'
+
+** (zeitgeist-datahub:4180): WARNING **: zeitgeist-datahub.vala:229: Unable to get name "org.gnome.zeitgeist.datahub" on the bus!
+
+** (zeitgeist-fts:4178): WARNING **: Unable to get info on application://zeitgeist-datahub.desktop
+
+** (zeitgeist-fts:4178): WARNING **: Unable to get info on application://gcalctool.desktop
+
+** (process:4579): WARNING **: Couldn't create directory monitor on smb://x-gnome-default-workgroup/. Error: Operation not supported by backend
+
+** (process:4585): WARNING **: Couldn't create directory monitor on smb://x-gnome-default-workgroup/. Error: Operation not supported by backend
+
+** (process:4585): WARNING **: Couldn't create directory monitor on smb://x-gnome-default-workgroup/. Error: Operation not supported by backend
+Activating service name='org.freedesktop.Notifications'
+Successfully activated service 'org.freedesktop.Notifications'
+
+** (process:4585): WARNING **: Couldn't create directory monitor on smb://x-gnome-default-workgroup/. Error: Operation not supported by backend
+Activating service name='org.gnome.Terminal'
+Activating service name='org.gnome.GConf'
+Successfully activated service 'org.gnome.GConf'
+Successfully activated service 'org.gnome.Terminal'
+
+** (zeitgeist-fts:4178): WARNING **: Unable to get info on application://nautilus-autostart.desktop
+Activating service name='com.canonical.Unity.Scope.Home'
+Successfully activated service 'com.canonical.Unity.Scope.Home'
+Activating service name='com.canonical.Unity.Scope.Applications'
+Activating service name='com.canonical.Unity.Scope.LocalFiles'
+Error loading package indexes: Couldn't stat '/var/cache/software-center/xapian'
+
+(unity-scope-loader:5407): unity-applications-daemon-CRITICAL **: daemon.vala:144: Failed to load Software Center index. 'Apps Available for Download' will not be listed
+
+(process:5409): unity-files-daemon-WARNING **: folder.vala:65: Failed to read favorites: Failed to open file '/tmp/guest-q7nwlo/.config/gtk-3.0/bookmarks': No such file or directory
+Successfully activated service 'com.canonical.Unity.Scope.LocalFiles'
+Successfully activated service 'com.canonical.Unity.Scope.Applications'
+Activating service name='com.canonical.Unity.Webapps.Service'
+Successfully activated service 'com.canonical.Unity.Webapps.Service'
+Activating service name='org.freedesktop.Geoclue.Providers.UbuntuGeoIP'
+Successfully activated service 'org.freedesktop.Geoclue.Providers.UbuntuGeoIP'
+
+(ubuntu-geoip-provider:5493): GLib-GObject-CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+** Message: Investigating webapp: unity-webapps-common 
+
+
+** (process:5485): WARNING **: Found newline before all of metadata, skipping app
+** Message: Investigating webapp: unity-webapps-qml 
+
+
+** (process:5485): WARNING **: Found newline before all of metadata, skipping app
+** Message: Investigating webapp: unity-webapps-qml-doc 
+
+
+** (process:5485): WARNING **: Found newline before all of metadata, skipping app
+** Message: Investigating webapp: unity-webapps-qml-examples 
+
+
+** (process:5485): WARNING **: Found newline before all of metadata, skipping app
+** Message: Investigating webapp: unity-webapps-service 
+
+
+** (process:5485): WARNING **: Found newline before all of metadata, skipping app
+** Message: Investigating webapp: unity-webapps-qml 
+
+
+** (process:5485): WARNING **: Found newline before all of metadata, skipping app
+** Message: Investigating webapp: unity-webapps-qml-examples 
+
+
+** (process:5485): WARNING **: Found newline before all of metadata, skipping app
+** Message: Investigating webapp: unity-webapps-service 
+
+
+** (process:5485): WARNING **: Found newline before all of metadata, skipping app
+** Message: Investigating webapp: unity-webapps-amazoncloudreader 
+
+** Message: Investigating webapp: unity-webapps-bbcnews 
+
+** Message: Investigating webapp: unity-webapps-cnn-news 
+
+** Message: Investigating webapp: unity-webapps-deezer 
+
+** Message: Investigating webapp: unity-webapps-dev 
+
+
+** (process:5485): WARNING **: Found newline before all of metadata, skipping app
+** Message: Investigating webapp: unity-webapps-deviantart 
+
+** Message: Investigating webapp: unity-webapps-facebookmessenger 
+
+** Message: Investigating webapp: unity-webapps-gmail 
+
+** Message: Investigating webapp: unity-webapps-googlecalendar 
+
+** Message: Investigating webapp: unity-webapps-googledocs 
+
+** Message: Investigating webapp: unity-webapps-googlenews 
+
+** Message: Investigating webapp: unity-webapps-googleplus 
+
+** Message: Investigating webapp: unity-webapps-googleplusgames 
+
+
+** (process:5485): WARNING **: Found newline before all of metadata, skipping app
+** Message: Investigating webapp: unity-webapps-grooveshark 
+
+** Message: Investigating webapp: unity-webapps-hulu-player 
+
+** Message: Investigating webapp: unity-webapps-lastfm-radio 
+
+** Message: Investigating webapp: unity-webapps-launchpad 
+
+** Message: Investigating webapp: unity-webapps-librefm 
+
+** Message: Investigating webapp: unity-webapps-linkedin 
+
+** Message: Investigating webapp: unity-webapps-livemail 
+
+** Message: Investigating webapp: unity-webapps-mail-ru 
+
+** Message: Investigating webapp: unity-webapps-newsblur 
+
+** Message: Investigating webapp: unity-webapps-pandora 
+
+** Message: Investigating webapp: unity-webapps-qml-autopilot 
+
+
+** (process:5485): WARNING **: Found newline before all of metadata, skipping app
+** Message: Investigating webapp: unity-webapps-qq-mail 
+
+** Message: Investigating webapp: unity-webapps-reddit 
+
+** Message: Investigating webapp: unity-webapps-tumblr 
+
+** Message: Investigating webapp: unity-webapps-twitter 
+
+** Message: Investigating webapp: unity-webapps-vkcom 
+
+** Message: Investigating webapp: unity-webapps-wordpress 
+
+** Message: Investigating webapp: unity-webapps-wordpress-com 
+
+** Message: Investigating webapp: unity-webapps-yahoomail 
+
+** Message: Investigating webapp: unity-webapps-yahoonews 
+
+** Message: Investigating webapp: unity-webapps-yandex-music 
+
+** Message: Investigating webapp: unity-webapps-yandexmail 
+
+** Message: Investigating webapp: unity-webapps-yandexmusic 
+
+** Message: Investigating webapp: unity-webapps-yandexnews 
+
+** Message: Investigating webapp: unity-webapps-youtube 
+
+
+** (zeitgeist-fts:4178): WARNING **: Unable to get info on application://nautilus-autostart.desktop
+Activating service name='org.gnome.Terminal'
+Successfully activated service 'org.gnome.Terminal'
